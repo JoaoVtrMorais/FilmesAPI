@@ -48,3 +48,6 @@ C:\Users\kagun\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Newtonsoft.Json
 C:\Users\kagun\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\kagun\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net8.0\FilmesAPI.xml
 C:\Users\kagun\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.xml
+C:\Users\kagun\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.sourcelink.json
+C:\Users\kagun\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\kagun\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
